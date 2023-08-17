@@ -1,2 +1,1 @@
-# Unentel_AzureCloudOp
-- Teste Integração Git Bruno
+# Unentel_AzureCloudOps
